@@ -20,6 +20,7 @@
   <ItemGroup>
     <Compile Include="Fermata.ColorSpaces.fsi" />
     <Compile Include="Fermata.ColorSpaces.fs" />
+    <None Include="..\README.md" Pack="true" PackagePath="\" />
   </ItemGroup>
 
   <ItemGroup>
