@@ -1,4 +1,4 @@
-﻿// Fermata.ColorSpaces Version 0.1.0
+﻿// Fermata.ColorSpaces Version 0.1.1
 // https://github.com/taidalog/Fermata.ColorSpaces
 // Copyright (c) 2024 taidalog
 // This software is licensed under the MIT License.
@@ -103,4 +103,3 @@ module Rgb =
     let toHexCode (rgb: Rgb) : HexCode = HexCode.ofRgb rgb
 
     let ofHexCode (hexCode: HexCode) : Rgb = HexCode.toRgb hexCode
-

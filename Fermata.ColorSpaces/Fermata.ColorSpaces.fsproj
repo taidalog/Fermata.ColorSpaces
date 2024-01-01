@@ -4,7 +4,7 @@
     <TargetFrameworks>netstandard2.0;net6.0;net7.0;net8.0</TargetFrameworks>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <PackageId>Fermata.ColorSpaces</PackageId>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <Authors>taidalog</Authors>
     <Company />
     <Description>F# library for operations related to color spaces. Compatible with Fable.</Description>
@@ -20,6 +20,7 @@
   <ItemGroup>
     <Compile Include="Fermata.ColorSpaces.fsi" />
     <Compile Include="Fermata.ColorSpaces.fs" />
+    <None Include="..\README.md" Pack="true" PackagePath="\" />
   </ItemGroup>
 
   <ItemGroup>

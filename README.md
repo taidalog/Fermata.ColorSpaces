@@ -2,7 +2,7 @@
 
 F# library for operations related to color space. Compatible with Fable.
 
-Version 0.1.0
+Version 0.1.1
 
 ## Features
 
@@ -30,13 +30,13 @@ For more information, see the signature file (`.fsi`).
 .NET CLI,
 
 ```
-dotnet add package Fermata.ColorSpaces --version 0.1.0
+dotnet add package Fermata.ColorSpaces --version 0.1.1
 ```
 
 F# Intaractive,
 
 ```
-#r "nuget: Fermata.ColorSpaces, 0.1.0"
+#r "nuget: Fermata.ColorSpaces, 0.1.1"
 ```
 
 For more information, please see [Fermata on NuGet Gallery](https://www.nuget.org/packages/Fermata.ColorSpaces).
