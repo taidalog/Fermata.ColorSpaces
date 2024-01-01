@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Fermata.ColorSpaces", "Fermata.ColorSpaces\Fermata.ColorSpaces.fsproj", "{8DC5D1DA-3D23-4EC2-A09A-94B1342C7BE7}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Fermata.ColorSpaces.Tests", "Fermata.ColorSpaces.Tests\Fermata.ColorSpaces.Tests.fsproj", "{3E050FE5-C20A-4C0E-9243-E70A11590811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DC5D1DA-3D23-4EC2-A09A-94B1342C7BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC5D1DA-3D23-4EC2-A09A-94B1342C7BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC5D1DA-3D23-4EC2-A09A-94B1342C7BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC5D1DA-3D23-4EC2-A09A-94B1342C7BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E050FE5-C20A-4C0E-9243-E70A11590811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E050FE5-C20A-4C0E-9243-E70A11590811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E050FE5-C20A-4C0E-9243-E70A11590811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E050FE5-C20A-4C0E-9243-E70A11590811}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
