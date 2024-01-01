@@ -1,3 +1,8 @@
+// Fermata.ColorSpaces Version 0.1.0
+// https://github.com/taidalog/Fermata.ColorSpaces
+// Copyright (c) 2024 taidalog
+// This software is licensed under the MIT License.
+// https://github.com/taidalog/Fermata.ColorSpaces/blob/main/LICENSE
 module Fermata.ColorSpaces.HexCode.Tests
 
 open System
